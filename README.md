@@ -1,6 +1,5 @@
 # [Camping Ground Website](https://strong-sprinkles-84546c.netlify.app/)
-![Landing page](![Uploading image.png…]()
-)
+![Landing page](https://i.ibb.co/sg0LYcL/travel-app.png)
 
 ## Introduction
 
